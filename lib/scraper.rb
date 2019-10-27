@@ -7,4 +7,4 @@ Nokogiri::HTML(html)
 
 doc = Nokogiri::HTML(html)
 
-puts dog
+puts doc
